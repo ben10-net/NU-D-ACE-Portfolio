@@ -21,7 +21,7 @@ compliance results through an administrative dashboard.
 - MySQL
 - Web Dashboard
 
-- ## System Features
+## System Features
 - Student identification through facial recognition
 - Real-time uniform detection
 - Uniform violation detection
